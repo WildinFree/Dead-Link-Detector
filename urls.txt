@@ -1,0 +1,11 @@
+https://google.com
+https://example.org
+http://nonexistent123456789.com
+www.invalid-site.com
+www.facebook.com
+www.instagram.com
+https://www.x.com
+https://www.tiktok.com
+https://www.linkedin.com
+https://www.blorptalk.com
+https://www.yabbermoo.com

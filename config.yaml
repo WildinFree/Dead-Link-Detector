@@ -1,0 +1,10 @@
+timeout: 8
+max_retries: 3
+concurrency: 20
+status_codes: [200, 301, 302]
+chunk_size: 100000
+use_proxies: false
+input_file: "urls.txt"
+output_path: "results/"
+use_get_fallback: true
+disable_ssl_verification: false
